@@ -39,5 +39,6 @@ let interest = "Develop websites"
 let hobby = "Netflix"
 
 let awesomeMessage = `Hi, my name is ${firstname1}. I love ${hobby}. In my spare time, I like to ${interest}`
+console.log(awesomeMessage)
 
 
